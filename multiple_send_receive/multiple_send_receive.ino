@@ -1,4 +1,5 @@
 /// this code is to send/receive multiple float variables to/from Simulink
+//Copyrights for Bilal A. Mubdir
 
 typedef union{
   float number;
