@@ -1,4 +1,6 @@
 /// this code is to send/receive single float variable to/from Simulink
+//Copyrights for Bilal A. Mubdir
+
 typedef union{
   float number;
   uint8_t bytes[4];
